@@ -1,0 +1,58 @@
+{
+	"cat": [
+		{
+			"bgImage": "/static/images/cat/cat_1.png",
+			"handImg": "/static/images/catHand/catHand_1.png"
+		},
+		{
+			"bgImage": "/static/images/cat/cat_2.png",
+			"handImg": "/static/images/catHand/catHand_2.png"
+		},
+		{
+			"bgImage": "/static/images/cat/cat_3.png",
+			"handImg": "/static/images/catHand/catHand_3.png"
+		},
+		{
+			"bgImage": "/static/images/cat/cat_4.png",
+			"handImg": "/static/images/catHand/catHand_4.png"
+		},
+		{
+			"bgImage": "/static/images/cat/cat_5.png",
+			"handImg": "/static/images/catHand/catHand_5.png"
+		},
+		{
+			"bgImage": "/static/images/cat/cat_6.png",
+			"handImg": "/static/images/catHand/catHand_6.png"
+		},
+		{
+			"bgImage": "/static/images/cat/cat_7.png",
+			"handImg": "/static/images/catHand/catHand_7.png"
+		},
+		{
+			"bgImage": "/static/images/cat/cat_8.png",
+			"handImg": "/static/images/catHand/catHand_8.png"
+		},
+		{
+			"bgImage": "/static/images/cat/cat_9.png",
+			"handImg": "/static/images/catHand/catHand_9.png"
+		},
+		{
+			"bgImage": "/static/images/cat/cat_10.png",
+			"handImg": "/static/images/catHand/catHand_10.png"
+		}
+	],
+	"man": [
+		{"bgImage": "/static/images/people/people_1.png"},
+		{"bgImage": "/static/images/people/people_2.png"},
+		{"bgImage": "/static/images/people/people_3.png"},
+		{"bgImage": "/static/images/people/people_4.png"},
+		{"bgImage": "/static/images/people/people_5.png"},
+		{"bgImage": "/static/images/people/people_6.png"},
+		{"bgImage": "/static/images/people/people_7.png"},
+		{"bgImage": "/static/images/people/people_8.png"},
+		{"bgImage": "/static/images/people/people_9.png"},
+		{"bgImage": "/static/images/people/people_10.png"},
+		{"bgImage": "/static/images/people/people_11.png"},
+		{"bgImage": "/static/images/people/people_12.png"}
+	]
+}
